@@ -1,4 +1,4 @@
-# Leo AI On-Device Assistant Model (`leo_1b.task`)
+# Leon AI On-Device Assistant Model (`leo_1b.task`)
 
 The `leo_1b.task` file is the on-device Large Language Model (LLM) that powers the **Leo AI Assistant** in the GoLeon application. It is based on the Google Gemma architecture (1B Q4 quantized) and is optimized for local execution using MediaPipe on mobile devices.
 
